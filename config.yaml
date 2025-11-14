@@ -1,0 +1,16 @@
+data:
+  orders: data/raw/orders.csv
+  users: data/raw/users.csv
+  dishes: data/raw/dishes.csv
+  interactions: data/raw/interactions.csv
+training:
+  item2vec:
+    vector_size: 32
+    window: 5
+    min_count: 1
+  cf:
+    factors: 64
+    regularization: 0.01
+    iterations: 20
+serving:
+  top_n: 10
