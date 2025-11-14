@@ -39,7 +39,7 @@ This project is built using **ML Engineering best practices** and is designed to
 
 ---
 
-#Sample Output 
+# Sample Output 
 
 <img width="446" height="312" alt="image" src="https://github.com/user-attachments/assets/255311f9-e96c-48f3-82dd-17f0fef5e70f" />
 
